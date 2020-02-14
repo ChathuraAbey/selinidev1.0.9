@@ -1,6 +1,7 @@
 # selinidev1.0.9
 This Repository contains selinide sample Test. For Demo superposes.
-By : Chathura AbeyWickrama - ChathuraAbey Git Private Repository 
+
+By : Chathura AbeyWickrama - <ChathuraAbey> Git Private Repository 
 
 There are multiple IDE’s available in the market. In this CodeBase, I recommend using IntelliJ for Selenium testing with Selenide. IntelliJ is a free, open-source Java IDE(Integrated Development Environment) for developing Java, Kotlin based software programming. This tool has Community and Ultimate version, community version of IntelliJ can be downloaded from (https://www.jetbrains.com/idea/download/#section=linux).
 
@@ -27,11 +28,15 @@ There are multiple IDE’s available in the market. In this CodeBase, I recommen
 
 # 4. Structure : Page Object Model 
 
+Master Reference:
 https://selenide.org/javadoc.html 
 
 Packages:
-
 com.codeborne.selenide	
 
-GoodLuck! 
-By Chathura Abeywickrama
+Thank You!
+ 
+By: Chathura Abeywickrama
+
+https://github.com/ChathuraAbey
+https://www.linkedin.com/in/chathura-abeywickrama/
