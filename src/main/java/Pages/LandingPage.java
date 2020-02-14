@@ -19,7 +19,7 @@ public class LandingPage implements DriverManager {
 
     @Override
     public void initDriver(String BaseUrl) {
-        System.setProperty("webdriver.chrome.driver", "src/bin");
+        System.setProperty("webdriver.chrome.driver", "src/bin/chromedriver");
         //Doesn't matter chrome or Chrome as this is case insensitive.
         System.setProperty("selenide.browser", "Chrome");
         open(BaseUrl);
