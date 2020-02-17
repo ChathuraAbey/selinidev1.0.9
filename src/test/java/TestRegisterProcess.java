@@ -13,7 +13,7 @@ public class TestRegisterProcess {
         rg.enterFname("Chthura");
         rg.enterLName("Abeywickrama");
         rg.enterMobile("+94716020023");
-        rg.enterEmail("chathura001@gmail.com");
+        rg.enterEmail("chathura004@gmail.com");
         rg.enterPassWord("Aet@1234");
         rg.enterConfirmPassWord("Aet@1234");
         rg.submitRegisteration();
